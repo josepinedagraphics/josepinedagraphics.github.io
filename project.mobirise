@@ -165,10 +165,10 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -270,7 +270,7 @@
           },
           "text4": "<p><a href=\"mailto:porfirio.pineda@hotmail.com\">porfirio.pineda@hotmail.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
           "title1": "Categorias",
-          "text5": "<li><a class=\"text-white\" href=\"#\">P</a>ublicidad</li><li><a class=\"text-white\" href=\"#\">D</a>iseño</li><li>Redes Sociales</li>",
+          "text5": "<li><a class=\"text-white\" href=\"#\">P</a>ublicidad</li><li><a class=\"text-white\" href=\"#\"><b>D</b></a>iseño</li><li><b>R</b>edes Sociales</li>",
           "text6": "<strong>Contacts</strong><br>Email: porfirio.pineda@hotmail.com<br>Celular: 6443-3195<br><br><br><strong>Dirección</strong><br>Panamá City",
           "form": {
             "title": "MESSAGE",
