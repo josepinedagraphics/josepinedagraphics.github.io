@@ -494,3 +494,8 @@ h6,
   font-size: 36px;
   font-family: 'Roboto', sans-serif;
 }
+#content8-c .mbr-section-title,
+#content8-c p {
+  text-align: right;
+  color: #fff;
+}
