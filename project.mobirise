@@ -189,7 +189,7 @@
               "src": "@THEME_PATH@/components/_images/desert.jpg"
             },
             "video": {
-              "src": "https://youtu.be/YIJI0YrfZdE",
+              "src": "https://youtu.be/ZGY4q2Tg-BQ",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": "on",
@@ -201,8 +201,8 @@
               "size": 250
             }
           },
-          "title": "Eres Bienvenid@<br>Aqui puedes ver<br>mi reel de animación",
-          "text": "En este intro pues observar algunos trabajos en motion graphics en mi experiencia dentro de la agencia Publicis Panamá.<br>También te invito a probar el juego beta de Spacecrunch que he<br>estado desarrollando: http://spacecrunchpty.bitballoon.com/ .<br>https://youtu.be/xmchDkoHwwk<br>",
+          "title": "Eres Bienvenid@<br>Aqui puedes ver<br>mi reel de animación.",
+          "text": "En este intro pues observar algunos trabajos de motion graphics en mi experiencia dentro de la agencia Publicis Panamá.<br>También te invito a probar el juego beta de Spacecrunch que he<br>estado desarrollando: http://spacecrunchpty.bitballoon.com/ .<br>https://youtu.be/xmchDkoHwwk<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
